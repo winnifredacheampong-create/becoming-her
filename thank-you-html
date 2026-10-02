@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Thank You | Becoming Her</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <section class="thank-you">
+
+        <h1>Thank You 💌</h1>
+
+        <p>
+            Your message has been received.
+        </p>
+
+        <p>
+            Thank you for reaching out to Becoming Her.
+            I'll get back to you soon. 🥀
+        </p>
+
+        <a href="index.html" class="hero-button">
+            Back to Becoming Her 🌷
+        </a>
+
+    </section>
+
+</body>
+
+</html>
